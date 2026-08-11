@@ -1,0 +1,17 @@
+{
+  "name": "act-like-an-owner",
+  "version": "1.0.0",
+  "description": "Reviews a supplied decision for reversibility, total effects, authority, and follow-through. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/act-like-an-owner",
+  "repository": "https://github.com/andrewluxem/act-like-an-owner",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "ownership",
+    "decision-review"
+  ]
+}
